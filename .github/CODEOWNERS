@@ -1,0 +1,8 @@
+# Default owner for all files
+* @owner
+
+# Backend files
+/backend/ @backend-team
+
+# Frontend files
+/frontend/ @frontend-team
